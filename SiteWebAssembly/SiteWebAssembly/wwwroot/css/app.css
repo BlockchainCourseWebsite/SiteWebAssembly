@@ -2,6 +2,8 @@
 @import "components/banner.css";
 @import "components/header.css";
 @import "components/content.css";
+@import "components/sendemail.css";
+@import "components/textabout.css";
 @import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
 html, body {
@@ -10,12 +12,6 @@ html, body {
 
 a, .btn-link {
     color: #0366d6;
-}
-
-.btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
 }
 
 #blazor-error-ui {
